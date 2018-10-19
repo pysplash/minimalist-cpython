@@ -10,7 +10,8 @@ Minimalist CPython
    :maxdepth: 2
    :caption: Contents:
 
-    min-setup
+    min_setup.md
+
 
 Indices and tables
 ==================
