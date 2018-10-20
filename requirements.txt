@@ -1,2 +1,2 @@
- sphinx>=1.7
- recommonmark==0.5.0.dev
+sphinx>=1.7
+git+https://github.com/rtfd/recommonmark.git@fdeeda5f6fe3ed8905deb7a067cc5951a477d091
