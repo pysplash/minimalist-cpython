@@ -8,7 +8,7 @@ Minimalist CPython
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
 
     min-setup.md
 
