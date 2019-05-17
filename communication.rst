@@ -17,13 +17,11 @@ Mailing Lists
 - python-ideas_: ideas about new functionality.
 - python-list_ or python-help_ or `tutor`_: technical support questions
 - Python-checkins_: email for every commit to Python
-- `issue tracker`_.
 - new-bugs-announce_.
 - python-bugs-list_.
 - `Core-Workflow <https://mail.python.org/mm3/mailman3/lists/core-workflow.python.org/>`_
 - `GMANE <https://gmane.org>`_: another source to find mail archives
 
-.. _issue tracker: https://bugs.python.org
 .. _new-bugs-announce: https://mail.python.org/mailman/listinfo/new-bugs-announce
 .. _python-bugs-list: https://mail.python.org/mailman/listinfo/python-bugs-list
 .. _python-checkins: https://mail.python.org/mailman/listinfo/python-checkins
