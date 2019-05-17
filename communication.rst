@@ -1,6 +1,13 @@
 CPython Communication Channels
 ==============================
 
+GitHub Repos
+------------
+
+- CPython
+- PEPs
+- Steering Council
+
 Mailing Lists
 -------------
 
@@ -32,6 +39,7 @@ Mailing Lists
 Additional Discussion Channels
 -------------------------
 
+- https://bugs.python.org: issue tracker
 - `Discourse <https://discuss.python.org>`_: discuss development and dev community
 - `zulipchat <https://python.zulipchat.com>`_: discuss the development of Python only.
 - IRC: ``#python-dev`` channel on ``irc.freenode.net``
