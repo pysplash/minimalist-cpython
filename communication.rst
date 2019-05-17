@@ -4,7 +4,7 @@ CPython Communication Channels
 Mailing Lists
 -------------
 
-- https://mail.python.org: complete list of Python mailing lists
+- https://mail.python.org and https://mail.python.org/mailman3/lists/: complete list of Python mailing lists
 - python-committers_: core developers
 - python-dev_: discussions about Python's development
 - python-ideas_: ideas about new functionality.
