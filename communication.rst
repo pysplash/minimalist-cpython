@@ -1,5 +1,5 @@
-CPython Communication Channels
-==============================
+CPython Communication
+=====================
 
 GitHub Repos
 ------------
