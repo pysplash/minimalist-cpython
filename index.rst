@@ -10,7 +10,10 @@ Minimalist CPython
    :maxdepth: 2
    :caption: Contents
 
+   communications.rst
    setup.md
+   tests.md
+   source.md
 
 
 Indices and tables
