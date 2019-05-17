@@ -10,7 +10,7 @@ Minimalist CPython
    :maxdepth: 2
    :caption: Contents
 
-   communications.rst
+   communication
    setup.md
    tests.md
    source.md
