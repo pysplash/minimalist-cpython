@@ -20,7 +20,7 @@ Mailing Lists
 - new-bugs-announce_.
 - python-bugs-list_.
 - `Core-Workflow <https://mail.python.org/mm3/mailman3/lists/core-workflow.python.org/>`_
-- `Mail Archive <https://www.mail-archive.com/python-dev@python.org/`_: another source to find mail archives
+- `Mail Archive <https://www.mail-archive.com/python-dev@python.org/>`_: another source to find mail archives
 - Search via Google `site:mail.python.org the_search_term`
 
 .. _new-bugs-announce: https://mail.python.org/mailman/listinfo/new-bugs-announce
