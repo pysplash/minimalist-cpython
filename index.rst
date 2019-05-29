@@ -14,6 +14,7 @@ Minimalist CPython
    setup.md
    tests.md
    source.md
+   py2to3.md
 
 
 Indices and tables
