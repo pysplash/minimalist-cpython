@@ -12,7 +12,8 @@ Python 2 reaches EOL on 2020-01-01. These are some resources to assist in migrat
 - [Python 3 Q&A by Nick Coghlan](https://ncoghlan-devs-python-notes.readthedocs.io/en/latest/python3/questions_and_answers.html)
 - [Why Python 3 exists by Brett Cannon](https://snarky.ca/why-python-3-exists/)
 - [Porting Extension Modules by Benjamin Peterson](https://docs.python.org/3/howto/cporting.html#cporting-howto)
-- [Python Porting mailing list](https://mail.python.org/mailman/listinfo/python-porting) [*Archives*](https://mail.python.org/pipermail/python-porting/
+- [Python Porting mailing list](https://mail.python.org/mailman/listinfo/python-porting) [*Archives*](https://mail.python.org/pipermail/python-porting/)
+- [The Conservative Python 3 Porting Guide](https://portingguide.readthedocs.io/en/latest/) referenced in Petr Viktorin's [blog post on RHEL 8](https://developers.redhat.com/blog/2018/11/14/python-in-rhel-8/)
 
 ## Real world migrations
 
