@@ -24,6 +24,14 @@ Handy `CFLAGS`
 
 `xcode-select --install`
 
+The above generally works. For macOS Mojave 10.14, the following needs to be executed as well:
+
+```bash
+open /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg
+```
+
+Building with openssl from brew:
+
 ```
 brew install openssl xz
 ./configure --with-pydebug --with-openssl=$(brew --prefix openssl)
