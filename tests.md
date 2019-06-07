@@ -38,3 +38,7 @@ Run `Tools/scripts/run_tests.py` script.
 
 - Tests in `Lib/test` directory
 - Files `test_` prefix
+
+## Troubleshooting
+
+`./python.exe -m test.pythoninfo` - determines mac hardware
